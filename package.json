@@ -1,0 +1,21 @@
+{
+  "name": "socketio-game-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "h4wldev@gmail.com",
+  "description": "",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-watch": "^2.0.6",
+    "crypto-js": "^3.1.9-1",
+    "install": "^0.8.7",
+    "node-rsa": "^0.4.2",
+    "socket.io": "^1.7.3",
+    "winston": ""
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-watch": "^2.0.6",
+    "socket.io": "^1.7.3"
+  }
+}
